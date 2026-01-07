@@ -22,11 +22,18 @@ I value clarity, precision, and impact, and continuously refine my skills to ali
 Here are some ideas to get you started:
 
 -- 🔭 I’m currently working on data analytics and research-driven projects using Python, SQL, and analytical frameworks to extract trends, patterns, and actionable insights
+
 -- 🌱 I’m currently learning applied AI, machine learning, advanced analytics, and how to operationalize models for real-world decision-making
+
 -- 👯 I’m looking to collaborate on data analytics, AI-focused research, trend analysis, forecasting, experimentation, and insight development initiatives
+
 -- 🤔 I’m looking for help with building scalable analytics solutions, applying AI to complex business problems, and improving model interpretability
+
 -- 💬 Ask me about data analytics, Python, SQL, AI use cases, research methodology, trend analysis, insight storytelling, and decision support systems
+
 -- 📫 How to reach me: via GitHub or professional networking platforms
+
 -- 😄 Pronouns: He / Him
+
 -- ⚡ Fun fact: I enjoy turning ambiguous data and open-ended questions into clear, structured, and insight-driven outcomes
 -->
